@@ -17,6 +17,5 @@ Telegram: @MiUnlockCode
 
 Donate :
 
-# BTC: 1GMKsWJq8Zp9Wcavy1Dqi7kWzjHZ2LEn3m
 
 # USDT ERC20: 0x93a4ad733bef765110b242906ed6e314cffe851a
